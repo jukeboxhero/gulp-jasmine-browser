@@ -30,7 +30,7 @@
     "debug": "^2.2.0",
     "del": "^2.2.0",
     "eslint-plugin-jasmine": "^1.8.1",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-babel": "^6.1.1",
     "gulp-eslint": "^3.0.1",
     "gulp-header": "^1.2.2",
