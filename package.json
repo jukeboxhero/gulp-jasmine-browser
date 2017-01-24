@@ -75,10 +75,6 @@
     "through2-reduce": "^1.1.1",
     "vinyl": "^1.2.0"
   },
-  "peerDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-util": "^3.0.7"
-  },
   "scripts": {
     "test": "gulp"
   }
